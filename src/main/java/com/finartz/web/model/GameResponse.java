@@ -1,4 +1,4 @@
-package com.finartz.WEB.model;
+package com.finartz.web.model;
 
 /**
  * GameResponse

@@ -1,10 +1,8 @@
 
-### finartz rock scissors paper game
+** finartz rock scissors paper game **
 
-** fork project please **
+1. I used strategy pattern and implement it by changing GameLogic class. PaperStrategy, RockStrategy and ScissorStrategy classes implement RockScissorPaperStrategy interface.
+2. I added some controls for the request inputs and created util class.
+3. I added tests for rock, paper and scissors in RockScissorPaperApplicationTests class.
 
-for testing you can use POSTMAN, you can import test/finartzhw.postman_collection file to postman.
-
-1. Refactor bad written code. (be careful for naming and formatting, use spring/java best practice)
-2. Implement GameLogic class without using if/switch/(a ? '1' : '2') and you should remove 'firstWins' map. Use object oriented principles only.
-3. Write unit and integration tests
+*Gülşah Coşkun*
